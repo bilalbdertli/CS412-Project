@@ -1,13 +1,25 @@
 # CS412-Project
- Fall 2024 - 2025 Machine Learning Course Project
+ Fall 2024 - 2025 Machine Learning Course Project7
+
+# Contributors
+29267 - Bilal Berkam Dertli: Worked on Classification task, using TF-IDF with Classic Machine Learning models. 
+
+28962 - Cem Aydemir: Worked on Regression task, using various Regression models and hyperparameter tuning.
+
+28946 - İsmail Zafer Özdemir: Worked on Regression task, using various Regression models and hyperparameter tuning.
+
+32742 - Guanghui Ma: Worked on Classification task, using TF-IDF with Classic Machine Learning models. 
+
+29550 - Furkan Şafak Öksüz: Worked on Regression task, using various Regression models and hyperparameter tuning.
+
 
 ## Overview of the Repository
 This repository contains the code and resources for the Machine Learning course project. The project involves both **classification** and **regression** tasks, with work conducted across three rounds. Each round has a dedicated folder with the following structure:
 
----
 
 ### Round I/II/III folders:
 classification_roundX.ipynb: Notebook for the classification task.
+
 regression_roundX.ipynb: Notebook for the regression task.
 
 ### Project Report
